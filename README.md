@@ -1,13 +1,36 @@
-<img src="https://user-images.githubusercontent.com/106599546/202533423-824d75af-9b8e-42c7-ae52-6f36ba6cb8fc.gif" width="1000" height="410">
+<img src="https://user-images.githubusercontent.com/106599546/202533423-824d75af-9b8e-42c7-ae52-6f36ba6cb8fc.gif" width="100%" height="490">
+<br>
+<br>
+<br>
 <br>
 <br>
 
-<h1 style="text/css" margin-left="auto" margin-right="auto"> 📒 Sobre 📒
+
+   <h2 align="center">  📒 S O B R E 📒 </h1>
+   
+  <img src="https://user-images.githubusercontent.com/106599546/202544794-cae1c630-cb7b-4633-91e9-50bee1679d7c.gif" width="390" height="310" align="right">             
+
+<ul align="left">
+
+  <li>☺️ Apaixonado por tecnologia,Jogos,Anime,Musica e por Jesus! ☺️
+</li><br>
+
+<li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para <br>poder avançar e me destacar 
+  no mercado de trabalho e assim alcançarminha tão<br>  sonhada primeira vaga como dev front-end 🚀
+</li><br>
+
+<li>💻 Estudo no curso DEV CLUB . Atualmente estou aprendendo <br>JavaScript e ReactJS no DEV CLUB  💻</li>
+<br>
+
+  <li> 🌌 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End <br> e estudar bastante para ser um (Desenvolvedor Fullstack) 🌌 </li>
+</ul>
   
 
-### ☺️ Apaixonado por tecnologia,Jogos,Anime,Musica e por Jesus! ☺️
+ <div  top="-50">
+</div>     
 
-I'm starting in this new space, and over time I'm learning to transform my imagination and creativity into code.          <img src="https://user-images.githubusercontent.com/106599546/202544794-cae1c630-cb7b-4633-91e9-50bee1679d7c.gif" width="400" height="310">
+  
+  
 
 
 👀at the moment I'm studying:javaScript
