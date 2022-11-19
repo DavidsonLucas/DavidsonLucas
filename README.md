@@ -117,8 +117,53 @@
    <tr>
       <td>
          <a href="https://github.com/DavidsonLucas/Air-MAX.git" target="-blank">
-            <img src="b376e1bd8ef0905ac1c50226a3be4078be36f8cc" alt="">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=DavidsonLucas&theme=tokyonight&hide_border=true" alt="">
          </a>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/new-projet" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=new-projet&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/Air-MAX" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=Air-MAX&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/super-mario" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=super-mario&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/instagram-login-screen" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=instagram-login-screen&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+      <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/NWE" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=NWE&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+     <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/primeiro-projeto-facebook" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=primeiro-projeto-facebook&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
+
 
 
 
