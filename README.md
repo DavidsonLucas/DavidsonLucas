@@ -21,7 +21,7 @@
 </ul><br><br>
   
 <h1 align="center"> 🖥️ T e c n o l o g i a ⌨️ </h1><br>
-<img src="https://user-images.githubusercontent.com/106599546/202848566-11b94957-e789-44eb-a11c-d74e8e1bd114.gif" width="430" height="350" align=left>
+<img src="https://user-images.githubusercontent.com/106599546/202848566-11b94957-e789-44eb-a11c-d74e8e1bd114.gif" width="400" height="320" align=left>
 <table align="right" height="300">
    <tr>
       <td align="center">
