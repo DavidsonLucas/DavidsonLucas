@@ -112,7 +112,7 @@
 </P><br><br><br><br><br><br>
 
 <h1 align="center"> 🔬 P r o j e t o s 🔬 </h1><br>
-<img src="https://user-images.githubusercontent.com/106599546/202857154-e80d79c2-f99e-4cd3-b907-a11e72cd0a69.gif" align="right" width="385px" height="555px"><br>
+<img src="https://user-images.githubusercontent.com/106599546/202857154-e80d79c2-f99e-4cd3-b907-a11e72cd0a69.gif" align="right" width="365px" height="555px"><br>
 <table height="495px" width="365px">
    <tr>
       <td>
