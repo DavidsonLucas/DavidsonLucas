@@ -169,7 +169,7 @@
   <details open>
      <summary> 📚&ensp; <i>A t i v i d a d e s</i> 📚&ensp; </summary>
  <br> 
- <img src="https://activity-graph.herokuapp.com/graph?username=DavidsonLucas&theme=tokyonight_duo&hide-border=true"><br><br>
+ <img src="https://activity-graph.herokuapp.com/graph?username=DavidsonLucas&theme=radical&hide-border=true"><br><br>
         <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsonLucas&theme=tokyonight&hide_border=true">
   <br><br>
     <div align="right">
