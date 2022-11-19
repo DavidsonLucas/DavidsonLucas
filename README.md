@@ -21,7 +21,7 @@
 </ul><br><br>
   
 <h1 align="center"> 🖥️ T e c n o l o g i a ⌨️ </h1><br>
-<img src="https://user-images.githubusercontent.com/106599546/202848566-11b94957-e789-44eb-a11c-d74e8e1bd114.gif" width="500" height="350" align=left>
+<img src="https://user-images.githubusercontent.com/106599546/202848566-11b94957-e789-44eb-a11c-d74e8e1bd114.gif" width="430" height="350" align=left>
 <table align="right" height="300">
    <tr>
       <td align="center">
@@ -112,7 +112,17 @@
 </P><br><br><br><br><br><br>
 
 <h1 align="center"> 🔬 P r o j e t o s 🔬 </h1><br>
-<img src="https://user-images.githubusercontent.com/106599546/202857154-e80d79c2-f99e-4cd3-b907-a11e72cd0a69.gif" align="right" width="385px" height="555px">
+<img src="https://user-images.githubusercontent.com/106599546/202857154-e80d79c2-f99e-4cd3-b907-a11e72cd0a69.gif" align="right" width="385px" height="555px"><br>
+<table height="495px" width="365px">
+   <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/Air-MAX.git" target="-blank">
+            <img src="b376e1bd8ef0905ac1c50226a3be4078be36f8cc" alt="">
+         </a>
+
+
+
+</table>
 
 
 
