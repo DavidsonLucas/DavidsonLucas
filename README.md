@@ -3,7 +3,7 @@
 
    <h1 align="center">  📒 S O B R E 📒 </h1><br>
    
-  <img src="https://user-images.githubusercontent.com/106599546/202544794-cae1c630-cb7b-4633-91e9-50bee1679d7c.gif" width="390" height="310" align="right">             
+  <img src="https://user-images.githubusercontent.com/106599546/202544794-cae1c630-cb7b-4633-91e9-50bee1679d7c.gif" width="370" height="310" align="right">             
 
 <ul align="left">
 
