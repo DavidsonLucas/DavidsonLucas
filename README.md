@@ -158,8 +158,8 @@
    </tr>
      <tr>
       <td>
-         <a href="https://github.com/DavidsonLucas/primeiro-projeto-facebook" target="-blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=primeiro-projeto-facebook&theme=tokyonight&hide_border=true" alt="">
+         <a href="https://github.com/DavidsonLucas/facebook2" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=facebook2&theme=tokyonight&hide_border=true" alt="">
          </a>
       </td>
    </tr>
