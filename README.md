@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/106599546/202848231-d188cb9d-d0bd-4048-903c-8b1e30371389.gif" width="100%" height="490">
+<img src="https://user-images.githubusercontent.com/106599546/202848231-d188cb9d-d0bd-4048-903c-8b1e30371389.gif" width="100%" height="430">
 <br><br><br><br><br>
 
    <h1 align="center">  📒 S O B R E 📒 </h1><br>
