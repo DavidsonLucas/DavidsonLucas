@@ -163,6 +163,13 @@
          </a>
       </td>
    </tr>
+      <tr>
+      <td>
+         <a href="https://github.com/DavidsonLucas/Calculadora" target="-blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsonLucas&repo=calculadora&theme=tokyonight&hide_border=true" alt="">
+         </a>
+      </td>
+   </tr>
 </table><br><br><br><br>
 
  <h2 align="center">
